@@ -184,7 +184,7 @@ ol li::marker {
   line-height: 150%;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 450px) {
   .card {
     padding: 0;
     min-width: 320px;

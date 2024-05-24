@@ -1,11 +1,5 @@
-@font-face {
-  font-family: Outfit;
-  src: url(./assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
-}
-@font-face {
-  font-family: YoungSerif;
-  src: url(./assets/fonts/young-serif/YoungSerif-Regular.ttf);
-}
+@import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
 
 :root {
   --primary-nutmeg: hsl(14, 45%, 36%);

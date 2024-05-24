@@ -43,6 +43,10 @@ body {
   border-radius: 12px;
 }
 
+figure {
+  margin: 0;
+}
+
 .recipe_content {
   display: flex;
   flex-direction: column;
